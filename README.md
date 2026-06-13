@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/8f/ec/52/8fec52cce2d52f15dfbc74df25ec32ff.jpg" width="100%" />
+  <img src="https://i.pinimg.com/1200x/b8/4c/e2/b84ce2d46fba5f12050fad18cf2d5876.jpg" width="100%" />
 
   <br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=32&pause=1000&color=FFC0CB&center=true&vCenter=true&width=800&lines=%22Children+of+the+Tower...+Butterflies,+take+wing.%22;Back-end+Developer;Python+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=28&pause=1000&color=D3D3D3&center=true&vCenter=true&width=900&lines=Trying+to+escape+from+the+encroachment+of+the+Night,+I+awoke.;Checking+my+joints,+I+traced+my+way+through+clouded+memories...;Back-end+Developer" />
 </div>
 
 <br/>
@@ -14,16 +14,16 @@
       <h3>🚀 Foco de Desenvolvimento</h3>
       <p>Estudando e aprimorando lógica em:</p>
       <div align="left">
-        <img src="https://img.shields.io/badge/Python-B22222?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-B22222?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-B22222?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-808080?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-808080?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-808080?style=for-the-badge&logo=git&logoColor=white" />
       </div>
     </td>
     <td width="50%" align="center" valign="top">
       <h3>Performance</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=dakuraasa&theme=transparent&show_icons=true&hide_border=true&title_color=B22222&icon_color=B22222&text_color=FFC0CB" />
+      <img src="https://github-readme-stats.vercel.app/api?username=dakuraasa&theme=transparent&show_icons=true&hide_border=true&title_color=A9A9A9&icon_color=A9A9A9&text_color=D3D3D3" />
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakuraasa&layout=compact&theme=transparent&hide_border=true&title_color=B22222&text_color=FFC0CB" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakuraasa&layout=compact&theme=transparent&hide_border=true&title_color=A9A9A9&text_color=D3D3D3" />
     </td>
   </tr>
 </table>
