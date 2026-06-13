@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/b8/4c/e2/b84ce2d46fba5f12050fad18cf2d5876.jpg" width="100%" />
+  <img src="Revenant.jpg" width="100%" />
 
   <br/>
 
@@ -8,10 +8,9 @@
 
 <br/>
 
-<table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Foco de Desenvolvimento</h3>
+      <h3>Foco de Desenvolvimento</h3>
       <p>Estudando e aprimorando lógica em:</p>
       <div align="left">
         <img src="https://img.shields.io/badge/Python-808080?style=for-the-badge&logo=python&logoColor=white" />
