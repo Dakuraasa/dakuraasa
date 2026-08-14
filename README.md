@@ -21,7 +21,7 @@
 <br/>
 
 <div align="center">
-  <h3 style="font-family: 'Playfair Display', serif; font-weight: 700; color: #FFFFFF; font-size: 22px;">Tech Stack</h3>
+  <h3 style="font-family: 'Playfair Display', serif; font-weight: 700; color: #FFFFFF; font-size: 22px;"></h3>
   <br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
