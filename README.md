@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/DBML-D3D3D3?style=for-the-badge&logo=postgresql&logoColor=black" alt="DBML" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white" alt="C#" />
 </div>
 
 <br/>
