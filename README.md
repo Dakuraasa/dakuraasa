@@ -14,8 +14,6 @@
 
 <br/>
 
-<h2 align="center" style="font-family: 'Cinzel Decorative', serif; color: #EAEAEA; letter-spacing: 3px;">❖ &nbsp; CHRONICLE &nbsp; ❖</h2>
-
 <table width="100%" style="border: none;">
 <tr style="border: none;">
 <td width="55%" valign="top" style="border: none; padding-right: 24px;">
