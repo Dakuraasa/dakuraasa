@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=UnifrakturMaguntia&size=34&pause=1200&color=D3D3D3&center=true&vCenter=true&width=900&lines=Back-End+Developer;Forjador+de+Sistemas;Guardi%C3%A3o+de+Grim%C3%B3rios" />
+<img src="https://readme-typing-svg.herokuapp.com?font=UnifrakturMaguntia&size=34&pause=1200&color=D3D3D3&center=true&vCenter=true&width=900&lines=Back-End+Developer;Forger+of+Systems;Keeper+of+Grimoires" />
 
 <br/>
 
@@ -14,19 +14,28 @@
 
 <br/>
 
-<div align="center" style="max-width: 780px; margin: 0 auto;">
+<h2 align="center" style="font-family: 'Cinzel Decorative', serif; color: #EAEAEA; letter-spacing: 3px;">❖ &nbsp; CHRONICLE &nbsp; ❖</h2>
 
-<h2 style="font-family: 'Cinzel Decorative', serif; color: #EAEAEA; letter-spacing: 3px;">❖ &nbsp; CRÔNICA &nbsp; ❖</h2>
+<table width="100%" style="border: none;">
+<tr style="border: none;">
+<td width="55%" valign="top" style="border: none; padding-right: 24px;">
 
 <p style="font-family: 'IM Fell English', serif; color: #BFBFBF; font-size: 15px; line-height: 1.85; text-align: left;">
-&nbsp;&nbsp;&nbsp;&nbsp;Um estudante dedicado ao desenvolvimento back-end, forjando sistemas confiáveis nas sombras da lógica e da arquitetura limpa. Aprendiz de bancos de dados, soluções escaláveis e dos rituais que sustentam um software duradouro.
+&nbsp;&nbsp;&nbsp;&nbsp;A student devoted to back-end development, forging reliable systems in the shadows of logic and clean architecture. An apprentice of databases, scalable solutions, and the rituals that keep software alive through time.
 </p>
 
 <p style="font-family: 'IM Fell English', serif; color: #BFBFBF; font-size: 15px; line-height: 1.85; text-align: left;">
-&nbsp;&nbsp;&nbsp;&nbsp;Construo lógica e APIs enquanto aprimoro, passo a passo, minha compreensão dos sistemas que vivem por trás da tela. Meu objetivo: escrever código limpo, erguer software confiável e crescer até me tornar um engenheiro capaz de construir o que resiste ao tempo.
+&nbsp;&nbsp;&nbsp;&nbsp;I build logic and APIs while steadily deepening my understanding of the systems that live behind the screen. My goal: write clean code, raise reliable software, and grow into an engineer who builds what withstands time.
 </p>
 
-</div>
+</td>
+<td width="45%" valign="top" style="border: none;">
+
+<img src="https://i.pinimg.com/1200x/68/7b/df/687bdfd225d6a88d6db7132b856fffcb.jpg" width="100%" style="filter: grayscale(100%) contrast(115%);" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -38,7 +47,7 @@
 
 <br/><br/>
 
-<h3 style="font-family: 'Cinzel Decorative', serif; color: #EAEAEA; letter-spacing: 3px;">❖ &nbsp; GRIMÓRIO&nbsp;TÉCNICO &nbsp; ❖</h3>
+<h3 style="font-family: 'Cinzel Decorative', serif; color: #EAEAEA; letter-spacing: 3px;">❖ &nbsp; TECHNICAL&nbsp;GRIMOIRE &nbsp; ❖</h3>
 
 <br/>
 
