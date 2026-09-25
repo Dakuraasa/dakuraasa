@@ -14,12 +14,14 @@
 
 <br/>
 
+<h2 align="center" style="font-family: 'Cinzel Decorative', serif; color: #EAEAEA; letter-spacing: 3px;">❖ &nbsp; CHRONICLE &nbsp; ❖</h2>
+
 <table width="100%" style="border: none;">
 <tr style="border: none;">
 <td width="55%" valign="top" style="border: none; padding-right: 24px;">
 
 <p style="font-family: 'IM Fell English', serif; color: #BFBFBF; font-size: 15px; line-height: 1.85; text-align: left;">
-&nbsp;&nbsp;&nbsp;&nbsp;A student devoted to back-end development and sites, forging systems in the shadows of logic and clean architecture. An apprentice of databases, scalable solutions, and the rituals that keep software alive through time.
+&nbsp;&nbsp;&nbsp;&nbsp;A student devoted to back-end development, forging reliable systems in the shadows of logic and clean architecture. An apprentice of databases, scalable solutions, and the rituals that keep software alive through time.
 </p>
 
 <p style="font-family: 'IM Fell English', serif; color: #BFBFBF; font-size: 15px; line-height: 1.85; text-align: left;">
@@ -45,7 +47,7 @@
 
 <br/><br/>
 
-<h3 style="font-family: 'Cinzel Decorative', serif; color: #EAEAEA; letter-spacing: 3px;">❖ &nbsp;GRIMOIRE &nbsp; ❖</h3>
+<h3 style="font-family: 'Cinzel Decorative', serif; color: #EAEAEA; letter-spacing: 3px;">❖ &nbsp; TECHNICAL&nbsp;GRIMOIRE &nbsp; ❖</h3>
 
 <br/>
 
@@ -68,5 +70,9 @@
 <br/>
 
 <sub style="color:#7a7a7a; font-family: 'IM Fell English', serif; letter-spacing: 4px;">— you continue to attack. —</sub>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=13-edward-hyde&theme=dark&hide_border=true&background=00000000&stroke=D3D3D3&ring=D3D3D3&fire=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&currStreakNum=EAEAEA&sideNums=EAEAEA&dates=7a7a7a" />
 
 </div>
