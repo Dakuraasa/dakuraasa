@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/1200x/9a/b0/5e/9ab05e55dbcb45706db3faf78d9d9bbb.jpg" width="55%" style="filter: grayscale(100%) contrast(120%);" />
+<img src="https://i.pinimg.com/736x/f7/d7/fe/f7d7fe81c9507a5b8a6791d66e9e4d88.jpg" width="70%" style="filter: grayscale(100%) contrast(120%);" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=UnifrakturMaguntia&size=32&pause=1200&color=D3D3D3&center=true&vCenter=true&width=900&lines=Back-End+Developer;Forjador+de+Sistemas;Arquiteto+de+C%C3%B3digo" />
+<img src="https://readme-typing-svg.herokuapp.com?font=UnifrakturMaguntia&size=34&pause=1200&color=D3D3D3&center=true&vCenter=true&width=900&lines=Back-End+Developer;Forjador+de+Sistemas;Guardi%C3%A3o+de+Grim%C3%B3rios" />
 
 <br/>
 
-☙───────────────────────❆───────────────────────❧
+❦ ────────────────── ✦ ────────────────── ❦
 
 </div>
 
@@ -16,13 +16,13 @@
 
 <div align="center" style="max-width: 780px; margin: 0 auto;">
 
-<h2 style="font-family: 'Pirata One', serif; color: #EAEAEA; letter-spacing: 2px;">✠ &nbsp; DE MIM &nbsp; ✠</h2>
+<h2 style="font-family: 'Cinzel Decorative', serif; color: #EAEAEA; letter-spacing: 3px;">❖ &nbsp; CRÔNICA &nbsp; ❖</h2>
 
-<p style="font-family: 'Playfair Display', serif; color: #BFBFBF; font-size: 15px; line-height: 1.8; text-align: left;">
+<p style="font-family: 'IM Fell English', serif; color: #BFBFBF; font-size: 15px; line-height: 1.85; text-align: left;">
 &nbsp;&nbsp;&nbsp;&nbsp;Um estudante dedicado ao desenvolvimento back-end, forjando sistemas confiáveis nas sombras da lógica e da arquitetura limpa. Aprendiz de bancos de dados, soluções escaláveis e dos rituais que sustentam um software duradouro.
 </p>
 
-<p style="font-family: 'Playfair Display', serif; color: #BFBFBF; font-size: 15px; line-height: 1.8; text-align: left;">
+<p style="font-family: 'IM Fell English', serif; color: #BFBFBF; font-size: 15px; line-height: 1.85; text-align: left;">
 &nbsp;&nbsp;&nbsp;&nbsp;Construo lógica e APIs enquanto aprimoro, passo a passo, minha compreensão dos sistemas que vivem por trás da tela. Meu objetivo: escrever código limpo, erguer software confiável e crescer até me tornar um engenheiro capaz de construir o que resiste ao tempo.
 </p>
 
@@ -32,15 +32,13 @@
 
 <div align="center">
 
-☙───────────────────────❆───────────────────────❧
+❦ ────────────────── ✦ ────────────────── ❦
 
-<br/>
-
-<img src="https://i.pinimg.com/1200x/6f/64/c3/6f64c3cb7dd292fdbd34ac5c1051d1b8.jpg" width="70%" style="filter: grayscale(100%) contrast(115%);" />
+<img src="https://i.pinimg.com/1200x/6f/64/c3/6f64c3cb7dd292fdbd34ac5c1051d1b8.jpg" width="65%" style="filter: grayscale(100%) contrast(115%);" />
 
 <br/><br/>
 
-<h3 style="font-family: 'Pirata One', serif; color: #EAEAEA; letter-spacing: 2px;">GRIMÓRIO&nbsp;TÉCNICO</h3>
+<h3 style="font-family: 'Cinzel Decorative', serif; color: #EAEAEA; letter-spacing: 3px;">❖ &nbsp; GRIMÓRIO&nbsp;TÉCNICO &nbsp; ❖</h3>
 
 <br/>
 
@@ -58,14 +56,10 @@
 
 <div align="center">
 
-☙───────────────────────❆───────────────────────❧
+❦ ────────────────── ✦ ────────────────── ❦
 
 <br/>
 
-<img src="https://i.pinimg.com/736x/f7/d7/fe/f7d7fe81c9507a5b8a6791d66e9e4d88.jpg" width="300" style="filter: grayscale(100%) contrast(115%);" />
-
-<br/><br/>
-
-<sub style="color:#7a7a7a; font-family: 'Playfair Display', serif; letter-spacing: 3px;">— you continue to attack. —</sub>
+<sub style="color:#7a7a7a; font-family: 'IM Fell English', serif; letter-spacing: 4px;">— you continue to attack. —</sub>
 
 </div>
